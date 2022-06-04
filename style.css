@@ -1,0 +1,18 @@
+*{
+    background-color:  #F3F1F5;;
+}
+
+
+.container-fluid{
+    margin: 100px auto;
+    display: flex;
+   /* flex-direction: row; */
+   
+
+    
+}
+.two{
+   display: flex;
+   padding: 100px;
+}
+
